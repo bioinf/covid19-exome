@@ -1,0 +1,16 @@
+chr	pos	mut	rs	pval	feat	beta	gene	gtex	consequences
+2	219280564	"[""C"",""T""]"	rs2276638	9.8408e-05	leuk_1	-0.29128	DNAJB2	ABCB6 (Testis), ATG9A (Skin - Sun Exposed (Lower leg)), GLB1L (Testis), PTPRN (Whole Blood, Different Parts of Brain), RESP18 (Different Parts of Brain)	intron variant
+3	38894643	"[""C"",""T""]"	rs33985936	2.495e-05	CT_start	-0.24135	SCN11A	SCN11A (Several Tissues), TTC21A (Several Tissues), WDR48 (Several Tissues)	missense variant
+3	68997990	"[""G"",""A""]"	rs4855544	2.8835e-05	l	0.23315	EOGT	ARL6IP5 (Several Tissues), CTD-2013N24.2 (Artery - Tibial), EOGT (Several Tissues), LMOD3 (Artery - Tibial, Esophagus - Mucosa), TMF1 (Esophagus - Mucosa, Thyroid), UBA3 (Skin - Sun Exposed (Lower leg) and Not Sun Exposed (Suprapubic))	intron variant
+6	16306520	"[""G"",""A""]"	rs16885	1.2788e-05	CT_start	0.27554	ATXN1	No significant eQTLs	missense variant
+6	51830849	"[""A"",""T""]"	rs1571084	4.2973e-05	CT_start	0.21063	PKHD1	PKHD1 (Skin - Sun Exposed (Lower leg) and Not Sun Exposed (Suprapubic))	intron variant
+9	98299383	"[""G"",""C""]"	rs41273925	2.0602e-05	CT_start	0.37624	GABBR2	TBC1D2 (Thyroid, Cells - Cultured fibroblasts)	intron variant
+9	132278286	"[""T"",""C""]"	rs11243705	8.1811e-06	crp	0.30593	SETX	SETX (Several Tissues)	intron variant
+10	71799129	"[""G"",""A""]"	rs4747194	5.8369e-05	l	0.24603	CDH23	CDH23 (Colon - Transverse, Testis), PSAP (Several Tissues)	missense variant
+10	71799195	"[""C"",""T""]"	rs4747195	7.8448e-05	l	0.24157	CDH23	CDH23 (Colon - Transverse, Testis), PSAP (Several Tissues)	missense variant
+16	88738516	"[""TC"",""T""]"	rs34600315	3.7295e-05	CT_start	0.21494	PIEZO1	SNAI3-AS1 (Heart - Atrial Appendage), RP5-1142A6.9 (Whole Blood), PIEZO1 (Whole Blood)	non coding transcript exon variant
+19	50259161	"[""A"",""G""]"	rs1651553	1.4471e-07	leuk_1	0.31679	MYH14	No significant eQTLs	synonymous variant
+19	50259161	"[""A"",""G""]"	rs1651553	3.5466e-07	neut_1	0.3115	MYH14	No significant eQTLs	synonymous variant
+19	50263450	"[""T"",""C""]"	rs1529492	4.0025e-07	leuk_1	0.30547	MYH14	No significant eQTLs	intron variant
+19	50263450	"[""T"",""C""]"	rs1529492	9.2018e-07	neut_1	0.30038	MYH14	No significant eQTLs	intron variant
+22	20992196	"[""T"",""C""]"	rs112544	4.879e-05	neut_1	0.23406	LZTR1	AIFM3 (Pituitary), LZTR1 (Several Tissues), P2RX6 (Several Tissues), THAP7 (Pituitary), THAP7-AS1 (Several Tissues)	intron variant
