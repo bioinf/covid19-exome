@@ -18,8 +18,7 @@ Common variants association study (CVAS) and Rare variants association study (RV
 - `final_rwas_pipeline_p2_statistics_and_plots.ipynb` - second step of RVAS (tests and plots).
 - `out_hail_gwas_com_sd3/` - directpry with p values of cvas.
 - `out_hail_rvas/` - directory with p values of rvas.
-- `rvas_dataset/` - directory with table for the 2nd part of rvas  
-
+  
 
 ## Directory `risk_score_and_regression`
 
@@ -38,7 +37,7 @@ R code for drawing figures, and figures itself.
 - `2_PCA.R` - draw plots for principal components from EDA (for sex and death). Images: `images/pca_*.pdf`.
 - `3_violin_regression.R` - draw violin plots and regression on SNPS and associated features (from `data/regression/regr_rs*_*.tsv`). Images: `images/regr_<rs>_<feature>.pdf`.
 - `4_boxplots.R` - draw boxplots for features by death and severity (from `data/boxplots_analyses.tsv`). Images: `images/bozplot_violin_<death/severity>_<feature>.pdf`.
-- `5_histplots.R` - draw histplots (from: `data/features_for_hist.tsv` and `data/boxplots_analyses.tsv`). Imaged data:
+- `5_histplots.R` - draw histplots. Imaged data:
     - `images/histogram_<feature>___top_10_score.pdf` - histograms for score by severity/death/storm;
     - `images/score_hist.pdf` - histogram pf the snps' score;  
     - `images/histogram_<death/severity>_<feature>.pdf` - histograms of features by death/severity.
